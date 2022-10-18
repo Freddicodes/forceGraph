@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"name": "John", "age": 35},
+    {"name": "Adam", "age": 20},
+    {"name": "Jan", "age": 20},
+    {"name": "Julia", "age": 23},
+    {"name": "Ingo", "age": 20},
+    {"name": "Paula", "age": 19}
+  ],
+  "links": [
+    {"source": "John", "target": "Jan"},
+    {"source": "John", "target": "Adam"},
+    {"source": "Julia", "target": "Jan"},
+    {"source": "Ingo", "target": "Jan"},
+    {"source": "Paula", "target": "Adam"}
+  ]
+}
